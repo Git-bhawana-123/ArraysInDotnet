@@ -1,0 +1,8 @@
+D:\.Net\ArraysInDotNet\ArraysInDotNet\bin\Debug\ArraysInDotNet.exe.config
+D:\.Net\ArraysInDotNet\ArraysInDotNet\bin\Debug\ArraysInDotNet.exe
+D:\.Net\ArraysInDotNet\ArraysInDotNet\bin\Debug\ArraysInDotNet.pdb
+D:\.Net\ArraysInDotNet\ArraysInDotNet\obj\Debug\ArraysInDotNet.csproj.AssemblyReference.cache
+D:\.Net\ArraysInDotNet\ArraysInDotNet\obj\Debug\ArraysInDotNet.csproj.SuggestedBindingRedirects.cache
+D:\.Net\ArraysInDotNet\ArraysInDotNet\obj\Debug\ArraysInDotNet.csproj.CoreCompileInputs.cache
+D:\.Net\ArraysInDotNet\ArraysInDotNet\obj\Debug\ArraysInDotNet.exe
+D:\.Net\ArraysInDotNet\ArraysInDotNet\obj\Debug\ArraysInDotNet.pdb
